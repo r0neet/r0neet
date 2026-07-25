@@ -1,16 +1,27 @@
-## Hi there 👋
+```
 
-<!--
-**r0neet/r0neet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                       ::- .: --= ==::-:...:..  Roneet@DevGrid ---------------------------------------
+                    :--:. -+ :- :: ----.. .:.   .
+                  :-=. .:#%# .+-.-+: -=:.::.-:  . Subject: ........................ Roneet Bala
+              .:--:   :*::=*=.:-::---=-.:.      . Role: .......................... Full Stack Developer
+             -=:.    -+-  :=+=--=+=:=:. :-.:    . Origin: ......................... Andaman & Nicobar, India
+           .+-      .%* :- =:  :=:       ..     . Status: ...... Building • Learning • Shipping
+     .     +-       #*:....-. ==.               . ToolChain: ....................... VS Code, Git, Postman, Docker
+ ..  .    +-       #=.-     ::-::--:.:..        .
+         :+      :.+*=-    .        ......      . Stack.Core: ...... JavaScript, TypeScript, Python, Java
+:::----. -=     .-. =+  ..   ....:...     .     . Stack.AI: ........... RAG, LLMs, Prompt Engineering
+=-:.::-= ==    ..  ::   .    ......:...   ..    . Stack.Frontend: ...... React, Tailwind CSS, Bootstrap, Figma
+ .::-::. :*       .=    ..              ..      . Stack.Backend: ...... Django, Spring Boot, REST APIs
+    . . . *=  .   .-     ..           .:.       . Stack.Data: ...... Pandas, NumPy, MySQL, Tableau
+  ....  . :*: .   -:       ...... ...           .
+     . ....:+.   .=          ..   .. -=.        - Contact ----------------------------------------------
+.. . ..     .+-  --       ...       .:--.   .:  . Grid.Mail: ....................... roneetbala2002@gmail.com
+...: ....... .=+.=-  .   --:-.........  .. ..   . Grid.Portfolio: ................... my-portfolio-rouge-one-95.vercel.app
+...:.::.::::...--.:  .   -. --:.. ......  ...   . Grid.LinkedIn: .................... linkedin.com/in/roneetbala
+:::..--....::..:. -.   .      :-::..        ..  . Grid.Github: ...................... github.com/r0neet
+::...::::::::.:::.-=   .       .:-----::...  :  .
+++=--:..-.  .:.....-:   .             ...:--..  - GitHub Stats -------------------------------------------
+..::-===--::-=--++.:*:                          . Repos: ....... 10   |   Followers: ......... 1
+.    .:-----=+=:-.. :*-..                       . Focus: .................. RAG systems • Real-time apps
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
